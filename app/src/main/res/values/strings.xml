@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">GetNearestStationFromPostalCode</string>
+
+
+    <string name="invalid_PostAddress">無効な郵便番号です!</string>
+    <string name="no_address_message">合致する住所が存在しない。</string>
 </resources>

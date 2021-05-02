@@ -12,11 +12,11 @@ data class Station (
     val name : String,
     val kana: String,
     val line : String,
-    val y: Int,
-    val x: Int,
+    val y: String,
+    val x: Station,
     val postal: String,
     val prev : String,
     val next: String,
     val prefecture: String,
-    val distance: Int
+    val distance: String
 )
