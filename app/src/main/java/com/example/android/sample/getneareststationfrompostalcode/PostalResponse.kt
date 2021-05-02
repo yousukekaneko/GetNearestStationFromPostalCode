@@ -13,7 +13,7 @@ data class Station (
     val kana: String,
     val line : String,
     val y: String,
-    val x: Station,
+    val x: String,
     val postal: String,
     val prev : String,
     val next: String,
